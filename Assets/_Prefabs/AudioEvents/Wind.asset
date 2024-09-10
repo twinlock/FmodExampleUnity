@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df1ce57e1aa11a44a93e4535b12772ba, type: 3}
+  m_Name: Wind
+  m_EditorClassIdentifier: 
+  fmodEvent:
+    Guid:
+      Data1: -912933912
+      Data2: 1287014342
+      Data3: -1562246000
+      Data4: 515700710
+    Path: event:/Environment/wind_low
+  isOneshot: 0
+  isSpatial: 1
+  attachToGameObject: 0
